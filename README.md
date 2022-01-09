@@ -4,10 +4,10 @@ PySpark Assignment
  
 Group members:
 
-1.Ronald Wallace G – 20BDA10
-2.Clevan Cleon Lobo – 20BDA28
-3.Jerome Francis – 20BDA43
-4.Ajay Bhargav R – 20BDA64
+ 1. Ronald Wallace G – 20BDA10
+ 2. Clevan Cleon Lobo – 20BDA28
+ 3. Jerome Francis – 20BDA43
+ 4. Ajay Bhargav R – 20BDA64
 
 
 Instruction.txt-instructions regarding the assignment
