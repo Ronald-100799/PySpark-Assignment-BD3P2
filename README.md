@@ -12,6 +12,9 @@ Jerome Francis – 20BDA43
 
 Ajay Bhargav R – 20BDA64
 
+
 Instruction.txt-instructions regarding the assignment
+
 titanic.csv-dataset used for the group task
+
 [partitioned-female,partitioned-male]-output csv files
