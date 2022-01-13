@@ -10,8 +10,10 @@ Group members:
  4. Ajay Bhargav R – 20BDA64
 
 
-Instruction.txt-instructions regarding the assignment
+Instruction.txt-instructions regarding the assignment.
 
-titanic.csv-dataset used for the group task
+titanic.csv-dataset used for the group task.
 
-[partitioned-female,partitioned-male]-output csv files
+[partitioned-female,partitioned-male]-output csv files.
+
+Word count individual -notebook for individual assignment.
